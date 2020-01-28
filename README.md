@@ -12,3 +12,7 @@ Benefits from using Zune Data Viewer compared to open Zune API endpoints:
 
 - Possibility to access the friend list (with recursive access to their friend list)
 - Getting more metadata associated with media content (including pricing on the Zune Marketplace) 
+
+## Article
+
+Check out the [article on Channel9](https://web.archive.org/web/20120219034945/http://channel9.msdn.com/coding4fun/articles/Using-the-Zune-Web-API-on-Windows-Phone-7) to learn more.
